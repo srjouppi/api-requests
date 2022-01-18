@@ -1,2 +1,2 @@
 # api-requests
- API homework from Foundations of Computing class. 
+Exploring Weather and Spotify APIs using requests as part of my Fall '21 Foundations of Computing class.
